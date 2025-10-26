@@ -1,17 +1,18 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faReact, faDocker, faPython, faAws, faWindows } from '@fortawesome/free-brands-svg-icons';
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
+import { faServer } from "@fortawesome/free-solid-svg-icons";
 
 const labelsFirst = [
     "React",
-    "TypeScript",
+    "APIs",
     "JavaScript",
     "HTML5",
     "CSS3",
-    "SASS",
+    "PHP",
     "Flask",
     "Python",
     "SQL",
@@ -32,13 +33,15 @@ const labelsSecond = [
 ];
 
 const labelsThird = [
-    "OpenAI",
-    "Groq",
-    "LangChain",
-    "Qdrant",
-    "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "Powershell",
+    "Microsoft Entra",
+    "Azure AD",
+    "MS Exchange",
+    "File Servers",
+    "Active Directory",
+    "Server Management",
+    "VMware",
+    "Hyper-V",
 ];
 
 function Expertise() {
@@ -50,7 +53,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>Full Stack Web Development</h3>
-                    <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have a strong proficiency in the SDLC process and frontend + backend development.</p>
+                    <p>I have built a diverse array of web applications from scratch using modern technologies such as React and Flask. I have experience in the SDLC process and frontend + backend development.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (
@@ -62,7 +65,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
                     <h3>DevOps & Automation</h3>
-                    <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
+                    <p>Deployed and maintained containerized environments with Docker and Kubernetes, supporting microservices architecture and simplifying environment management.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsSecond.map((label, index) => (
@@ -72,9 +75,9 @@ function Expertise() {
                 </div>
 
                 <div className="skill">
-                    <FontAwesomeIcon icon={faPython} size="3x"/>
-                    <h3>GenAI & LLM</h3>
-                    <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
+                    <FontAwesomeIcon icon={faWindows} size="3x"/>
+                    <h3>System Administration</h3>
+                    <p>Passionate about ensuring IT systems run at peak performance. I leverage deep system administration expertise to enhance reliability, security, and efficiency across enterprise environments</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (
