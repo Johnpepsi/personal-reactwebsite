@@ -77,7 +77,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faWindows} size="3x"/>
                     <h3>System Administration</h3>
-                    <p>Passionate about ensuring IT systems run at peak performance. I leverage deep system administration expertise to enhance reliability, security, and efficiency across enterprise environments</p>
+                    <p>Deployed and integrated on-premises and cloud environments while applying enterprise-level security and automation practices. I leverage deep system administration expertise to enhance reliability, security, and efficiency across enterprise environments</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (

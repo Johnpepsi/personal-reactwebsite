@@ -22,19 +22,19 @@ function Project() {
                 <p>Developed a static web application for a client that includes contact information, forms and service details, that was built in PHP for a backend communication. </p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>War Card Game</h2></a>
+                <a href="https://github.com/Johnpepsi/WarCardUI" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Johnpepsi/WarCardUI" target="_blank" rel="noreferrer"><h2>War Card Game</h2></a>
                 <p>Developed this game as a practice. This is a card game built in Swift, it is an ideal programming language for creating card games that are fast, reliable, and visually appealing.
                 </p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Meme Kit</h2></a>
+                <a href="https://github.com/Johnpepsi/my-memeKit" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Johnpepsi/my-memeKit" target="_blank" rel="noreferrer"><h2>Meme Kit</h2></a>
                 <p>This Funny Moment Memes Project that I created for fun by using tools such as NPM and DOM. This Project sharpened my skills to work with Document Object Model. DOM allows JavaScript to interact with, and manipulate, the content, structure, and style of the web page</p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Scanner QR Github</h2></a>
+                <a href="https://github.com/Johnpepsi/QR-imageproject" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Johnpepsi/QR-imageproject/" target="_blank" rel="noreferrer"><h2>Scanner QR Github</h2></a>
                 <p>My first developed QR-Image project where I implemented URL link to my GitHub. I NPM module, JavaScript, Git bash scripting. By implementing the right command tools, I successfully made QR to prompt my personal website.</p>
             </div>
             <div className="project">
@@ -48,24 +48,24 @@ function Project() {
                 <p>Here is my very own portfolio website which contains my personal and contact information. The website is hosted online cloud platform hosting service where I utilized vercel for my all personal stuff.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><h2>Contacts Application</h2></a>
+                <a href="https://johnpalaganas-simongame.netlify.app/" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://johnpalaganas-simongame.netlify.app/" target="_blank" rel="noreferrer"><h2>Simon Game Challenge</h2></a>
                 <p>I learned to use calling the Properties, using array in such a clean code, also by importing JSX file in the right path of components.</p>
             </div>
             <div className="project">
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><h2>Ecommerce Project</h2></a>
+                <a href="https://github.com/Johnpepsi/EcommerceTemplate_1" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Johnpepsi/EcommerceTemplate_1" target="_blank" rel="noreferrer"><h2>Ecommerce Project</h2></a>
                 <p>Tech Stack: React, Node.js, Express, MongoDB. This project is a full-stack e-commerce application built with React for the front end and Node.js/Express for the back end.</p>
             </div>
             <div className="project">
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><h2>Expense Tracker App</h2></a>
-                <p>Expense Tracker is now easier and more insightful than ever thanks to our carefully crafted application, which offers customers a smooth and easy experience while tracking their spending. </p>
+                <a href="https://jpal-pokemonapi.netlify.app/" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://jpal-pokemonapi.netlify.app/" target="_blank" rel="noreferrer"><h2>Pokemon Search Api</h2></a>
+                <p>This project was meant to use for obtaining to learn API for utilizing fetch Data through JavaScript. Tools that I used in this project such was DOM, JS, APis.</p>
             </div>
             <div className="project">
-                <a href="https://www.goosecreekbernese.ca/" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.goosecreekbernese.ca/" target="_blank" rel="noreferrer"><h2>Android Application</h2></a>
-                <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
+                <a href="https://github.com/Johnpepsi/iOsCalculator" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Johnpepsi/iOsCalculator" target="_blank" rel="noreferrer"><h2>iOs Calculator</h2></a>
+                <p>Developed and released an iOS mobile application using Swift and Xcode that functions as a fully-featured calculator.</p>
             </div>
         </div>
     </div>

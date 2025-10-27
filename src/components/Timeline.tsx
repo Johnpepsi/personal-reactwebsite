@@ -35,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">IT Administrator</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Application Support • IT Helpdesk • Server Admninistration • SharePoint • Microsoft Entra Support • Virtualization • MS Teams Administration • Storage • Microsoft Azure 
+              Application Support • IT Helpdesk • Server Administration • SharePoint • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,7 +59,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Infrastructure Homelab</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Azure AD • DNS • DHCP • Cisco Switch/Router Configuration • Virtualization • Scripting
+              Azure AD • Cisco Switch/Router Configuration • pFsense • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
