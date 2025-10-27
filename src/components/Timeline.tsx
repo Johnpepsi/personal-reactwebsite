@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">System Support Specialist</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              System Support Specialist L2, Network Cable Technician, IT Support, ServiceDesk
+              System Support Specialist L2 • IT Support • CMS Administration
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -35,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">IT Administrator</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Application Support, IT Helpdesk, Microsoft Entra Support
+              Application Support • IT Helpdesk • Server Admninistration • SharePoint • Microsoft Entra Support • Virtualization • MS Teams Administration • Storage • Microsoft Azure 
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -47,7 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Freelance Web Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Full-stack Development, Frontend Development, Backend Development
+              Full-stack Development • Frontend Development • Backend Development
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,7 +59,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Infrastructure Homelab</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              AD, DNS, DHCP, Cisco Switch/Router Configuration, Virtualization, Powershell
+              Azure AD • DNS • DHCP • Cisco Switch/Router Configuration • Virtualization • Scripting
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
