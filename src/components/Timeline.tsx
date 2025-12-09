@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">System Support Specialist</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              System Support Specialist L2 • Software • Hardware Troubleshooting • CMS Administration
+              System Support Specialist Tier 2 • Software Troubleshooting • Hardware Deployment • Microsoft Entra • MS Teams Administration
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -35,19 +35,19 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">IT Administrator</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Application Support • IT Helpdesk • Server Administration • SharePoint • Microsoft Entra • Virtualization • MS Teams Administration • Storage • Microsoft Azure
+              Application Support • IT Helpdesk • Server Administration • SharePoint Administration • Microsoft Entra • Virtualization • Remote Troubleshooting • SolidWorks • Microsoft Azure
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2024 - 2025"
+            date="2024 - Current"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Freelance Web Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Full-stack Development • Frontend Development • Backend Development
+              NodeJS • React • Frontend Development • Backend Development • PostgreSQL • MongoDB • Web Design
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,7 +59,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Infrastructure Homelab</h3>
             <h4 className="vertical-timeline-element-subtitle">Regina, SK</h4>
             <p>
-              Azure AD • Cisco Switch/Router Configuration • pFsense • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V
+              Azure AD • Cisco Switch/Router Configuration • Firewall • Virtualization • Scripting • DNS • DHCP • File Servers • Active Directory • VMware • Hyper-V
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
